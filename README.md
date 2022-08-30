@@ -16,7 +16,7 @@ The app gives me the ability to export the data in CSV format, which does things
 
 ### **2.2 Used tools**
 - [x] **Python** (**mainly pandas**) clean, transform the data
-- [x]**SQLite** store the cleaned data
-- [ ]**Tableau** explore and visualize the data (access from the database)
+- [x] **SQLite** store the cleaned data
+- [ ] **Tableau** explore and visualize the data (access from the database)
 
 
