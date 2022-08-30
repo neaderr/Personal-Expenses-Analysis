@@ -14,7 +14,7 @@ This is my first project using Python and Jupyter Notebooks.
 The data comes from an expense tracker app on my smartphone, in which I make entries every time I have expenses.
 The app gives me the ability to export the data in CSV format, which does things easy to get the data into pandas DataFrame. 
 
-### **2.2 Used tools**
+### **2.2 Used tools and progress (ticked = done)**
 - [x] **Python** (**mainly pandas**) clean, transform the data
 - [x] **SQLite** store the cleaned data
 - [ ] **Tableau** explore and visualize the data (access from the database)
